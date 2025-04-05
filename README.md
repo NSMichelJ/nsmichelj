@@ -7,10 +7,9 @@
 # Hola, soy Michel Núñez! 👋
 
 ## 🚀 Acerca de mí
+Desde pequeño, siempre me ha gustado el mundo de la tecnología. Recuerdo que me pasaba horas jugando con mi computadora y soñando con crear mi propio videojuego. Con los años, mi interés por la programación se convirtió en una pasión.
 
-Soy programador y desarrollador de aplicaciones web.
-
-En mi poca experiencia profesional, he podido realizar prácticas como desarrollador web y he podido ayudar a otras personas en el área de la programación, lo que me ha permitido trabajar en lo aprendido durante mi carrera y desarrollar mis habilidades.
+Soy desarrollador web con +1 año de experiencia construyendo aplicaciones webs Full-Stack, disfruto guiando a otros en sus proyectos y enseñando programación. 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nsmichelj.vercel.app/)
