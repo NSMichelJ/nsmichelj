@@ -4,21 +4,20 @@
   </a>
 </p>
 
-# Hola, soy Michel Núñez! 👋
+# Michel Núñez! | Full Stack Web Developer
 
-## 🚀 Acerca de mí
-Desde pequeño, siempre me ha gustado el mundo de la tecnología. Recuerdo que me pasaba horas jugando con mi computadora y soñando con crear mi propio videojuego. Con los años, mi interés por la programación se convirtió en una pasión.
+## 🚀 About Me
+Hi 👋, I'm Michel, but you can call me Michelito, and I like: sharing my knowledge, collaborating on open-source projects, and creating useful tools for the community.
 
-Soy desarrollador web con +1 año de experiencia construyendo aplicaciones webs Full-Stack, disfruto guiando a otros en sus proyectos y enseñando programación. 
+Here are some interesting projects I've created:
 
-## 🔗 Links
+- [**OrbitUI**](https://github.com/nsmichelj/orbitui): Accessible, Customizable, & Lightweight component library.
+- [**ChromaticUI**](https://github.com/nsmichelj/ChromaticUI): Generate unique and harmonious color palettes for your designs.
+ 
+## ⚙️ My Favorite Stack
+![My favorite stack](https://skillicons.dev/icons?i=js,ts,python)
+
+## 🔗 Connect with me!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nsmichelj.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ve.linkedin.com/in/nsmichelj)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nsmichelj)
-
-## 🛠 Habilidades
-
-- Lenguajes de programación: Python, JavaScript/TypeScript.
-- Frameworks: Django, Django REST framework, React, Next.js, Astro, TailwindCSS.
-- Bases de datos: SQL, NoSQL.
-- Herramientas de desarrollo: Git, GitHub, Visual Studio Code.
